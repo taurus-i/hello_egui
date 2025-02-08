@@ -1,6 +1,6 @@
 [package]
 name = "egui_material_icons"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2021"
 categories = ["gui"]
 keywords = ["egui", "icons", "material"]
@@ -15,4 +15,4 @@ egui.workspace = true
 
 [dev-dependencies]
 eframe = { workspace = true, default-features = true }
-egui_demo_lib = "0.29"
+egui_demo_lib = "0.31"
